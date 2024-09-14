@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skeleton-commits
+- 👋 Hi, I’m skeleton
 - 👀 I’m interested in ... Game Development/Game Hacking
 - 🌱 I’m currently learning ... C++
 - 📫 How to reach me ... DISCORD - @skeleton.core 
